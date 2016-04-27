@@ -2,8 +2,8 @@
 In the exercises for the final two weeks of the course we will combine several of the equations we have seen with some basic geostatistics to link low-temperature thermochronometer ages from Bhutan to their long-term average rates of rock exhumation. For the first week we will start by exploring the time-dependent heat advection-conduction equation in 1D and linking that to a code for calculating the closure temperature for different thermochronometers.
 
 ## Components
-1. [Slides](Exercise-5-theory-1.md)
-2. [Handout](Exercise-5-theory-2.md)
+1. [Overview slides for Exercises 6 and 7](Laboratory-exercise-6-7-overview.pdf)
+2. [Description of final project report](Final-report.md)
 3. [Laboratory exercise 6](https://classroom.github.com/assignment-invitations/e9a8906f66f930a0991ab8bfe7c6c331)
 
 ## Resources
