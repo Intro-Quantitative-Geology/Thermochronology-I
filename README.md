@@ -8,6 +8,9 @@ In the exercises for the final two weeks of the course we will combine several o
 4. [Some final report references](https://moodle.helsinki.fi/course/view.php?id=12453#section-4)
 
 ## Resources
+- Course lecture materials
+  - [Basic concepts of thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/11-Basic-concepts-of-thermochronology/11-Basic-concepts-of-thermochronology.pdf)
+  - [Low-temperature thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/12-Low-temperature-thermochronology/12-Low-temperature-thermochronology.pdf)
 - Past exercise materials
   - [Python/NumPy tutorial, part I](https://github.com/Intro-Quantitative-Geology/Python-and-NumPy-I)
   - [Python/NumPy tutorial, part II](https://github.com/Intro-Quantitative-Geology/Python-and-NumPy-II)
