@@ -5,7 +5,6 @@ In the exercises for the final two weeks of the course we will combine several o
 1. [Overview slides for Exercises 6 and 7](Laboratory-exercise-6-7-overview.pdf)
 2. [Description of final project report](Final-report.md)
 3. [Laboratory exercise 6](https://classroom.github.com/assignment-invitations/e9a8906f66f930a0991ab8bfe7c6c331)
-4. [Some final report references](https://moodle.helsinki.fi/course/view.php?id=12453#section-4)
 
 ## Resources
 - Course lecture materials
@@ -16,6 +15,10 @@ In the exercises for the final two weeks of the course we will combine several o
   - [Python/NumPy tutorial, part II](https://github.com/Intro-Quantitative-Geology/Python-and-NumPy-II)
   - [Better plotting in Spyder](https://github.com/Intro-Quantitative-Geology/Hillslope-diffusion/blob/master/Fixing-Spyder.md)
   - [Formating text strings in Python](https://github.com/Intro-Quantitative-Geology/Hillslope-diffusion/blob/master/Format-Python-strings.md)
+- Scientific journal articles
+  - [Some final report references](https://moodle.helsinki.fi/course/view.php?id=12453#section-4)
+  - [Google scholar](https://scholar.google.fi/)
+  - [Web of Science](https://webofknowledge.com) (Only works on campus or via VPN)
 - Web pages
   - [Helpful tips for completing the exercises with Classroom for Github](https://github.com/Intro-Quantitative-Geology/Python-and-NumPy-II/blob/master/Lesson/Classroom.md)
   - [Codecademy's Learn to program in Python](https://www.codecademy.com/learn/python)
