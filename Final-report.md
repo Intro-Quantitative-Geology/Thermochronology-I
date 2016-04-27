@@ -20,7 +20,7 @@ A typical research report includes the following:
   - The goal here is to provide enough information to understand the main "drivers" of uplift and erosion of the thermochronometer data you're studying.
 - **Methods (at least 1 paragraph)**
   - Clearly state the different methods used for each part of the exercise.
-  For example, what equations are you solving in each part of the report, what are the variables or free parameters in each equation, how did you calculate the solution.
+  - For example, what equations are you solving in each part of the report, what are the variables or free parameters in each equation, how did you calculate the solution.
   Most probably you will want to have one paragraph to describe the thermal model and another to describe how thermochronometer ages are calculated.
 - **Results (at least 1 paragraph)**
   - This part describes the results from your experiments (such as the exhumation rate that provide a minimum goodness-of-fit to the data).
@@ -39,8 +39,8 @@ A typical research report includes the following:
     - What are the implications of your results for the problem/hypothesis you stated in the introduction?
     - Have you sufficiently tested your hypothesis or are more experiments needed?
     - Any other topics you feel should be discussed about the implications of the model results.
-- **Conclusions/Summary (1+ paragraph)**
-  - This should be at least 1 paragraph and summarize the main findings of your exercise.
+- **Conclusions/Summary (1-2 paragraphs)**
+  - This should summarize the main findings of your exercise.
 - **References**
   - Include a list of cited references from your report.
   This list should include at least 5 primary sources.
