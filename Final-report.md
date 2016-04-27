@@ -2,6 +2,7 @@
 The final task for this course is to write a formal scientific report about the results of Laboratory Exercises 6 and 7.
 Please use 12 pt Times New Roman (or similar) font for your report with single spacing between lines.
 The report should not be longer than 8 pages including text and figures (references and the appendix can be on additional pages, if needed).
+
 **The final report is due by 17.00 on 13.5**.
 
 A typical research report includes the following:
