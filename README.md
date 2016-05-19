@@ -4,7 +4,7 @@ In the exercises for the final two weeks of the course we will combine several o
 ## Components
 1. [Overview slides for Exercises 6 and 7](Laboratory-exercise-6-7-overview.pdf)
 2. [Description of final project report](Final-report.md)
-3. [Laboratory exercise 6](https://classroom.github.com/assignment-invitations/e9a8906f66f930a0991ab8bfe7c6c331)
+3. [Laboratory exercise 6](https://github.com/Intro-Quantitative-Geology/Lab-exercise-6)
 
 ## Resources
 - Course lecture materials
